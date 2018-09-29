@@ -1,148 +1,30 @@
 +++
-title = "Academic: the website designer for Hugo"
+title = "Time for a new beginning !!"
 
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
+date = 2018-09-28T20:23:00
+lastmod = 2018-09-28T21:23:00
 draft = false
-
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
-
-tags = ["Academic"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
-
-[header]
-image = "headers/getting-started.png"
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
-caption = "Default"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
-caption = "Ocean"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
-caption = "Dark"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png"
-caption = "Default"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
-caption = "1950s"
+tags = ["others"]
+summary = "Start of something exciting !!"
 +++
+A few days ago I read the following tweet somewhere on the internet !!
 
-**Academic** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you’ve written the same code 3 times, write a function<br><br>When you’ve given the same in-person advice 3 times, write a blog post</p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/928447584712253440?ref_src=twsrc%5Etfw">November 9, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+I tried to relate it to my real life experience and it definitely did make a lot of sense. I have seen myself sometimes repeating and sharing the same advice with my friends and colleagues. So, I decided to start my own blog to share my learnings and experiences with everyone. 
 
-Key features:
+I enjoy reading and have become an avid reader (I would have been surprised if someone said that about me a couple of years ago). 
+I love to read about a lot of varied topics and yes anything related to the computers (we go long way back) and the technology. Currently, I am more occupied with reading academic texts and papers about topics of my interests and I would love to share anything I find interesting in them. Apart from reading, I really enjoy sharing my knowledge with people which is the main motivation behind this blog.
 
-- Easily manage various content including homepage, blog posts, publications, talks, and projects
-- Extensible via **color themes** and **widgets/plugins**
-- Write in [Markdown](https://sourcethemes.com/academic/docs/writing-markdown-latex/) for easy formatting and code highlighting, with [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) for mathematical expressions
-- Social/academic network linking, [Google Analytics](https://analytics.google.com), and [Disqus](https://disqus.com) comments
-- Responsive and mobile friendly
-- Simple and refreshing one page design
-- Multilingual and easy to customize
+Talking to people who are new to the field or are nervous because of the initial experience with something and helping them is something I have always cherished. **"Success is not counted by how high you have climbed but by how many people you brought with you".**And I try to stand by this each and every day of my life. I do sometimes digress to philosophy even when I try very hard not to, I promise I would avoid it in the future posts :) But, coming back to the purpose of this blog and the interests that I would like to talk about here.  
 
-## Color Themes
+I find currently find the areas of *machine learning and distributed systems* very fascinating. I would love to share my perspective about different concepts and try to make topics in those areas more interesting and understandable.
 
-Academic is available in different color themes and font themes.
+I recently read an article which talked about why *deep learning*, I apologize for the jargon. Let's for now not focus on what does it mean as it's not that important at the moment. The article said that the fact that deep learning is hyped is itself hyped. I agree with it as people are trying to make use of buzzwords to gain traction and there is nothing wrong with that. My point is, yes, it may be hyped, but what differentiates a genuine enthusiast and person who wants to make use of any form of science and technology is not how much hype one can create, it's about how much impact one can have with their creation over the world and its population. This is the sole reason behind my curiosity about machine learning and distributed systems. I think they are very useful and if people try to make use of them to solve real-world problems, the opportunities are endless !!  
 
-{{< gallery >}}
+I might sometimes write about some non-technical topics also, but yes I would try to keep them separate. I have found the internet and online communities very useful for the knowledge I have gained in my life. **This is my way to give something back to it !!** I hope this blog would be useful for everyone and I would love to hear your comments and feedback.
 
-## Install
-
-You can choose from one of the following four methods to install:
-
-* one-click install using your web browser (recommended)
-* install on your computer using Git with the Command Prompt/Terminal app
-* install on your computer by downloading the ZIP files
-* install on your computer with RStudio
-
-### Quick install using your web browser
-
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
-2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
-3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
-
-### Install with Git
-
-Prerequisites:
-
-* [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
-
-1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository and clone your fork with Git: 
-
-        git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace `sourcethemes` with your GitHub username.*
-
-2. Initialize the theme:
-
-        cd My_Website
-        git submodule update --init --recursive
-
-### Install with ZIP
-
-1. [Download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip) and extract *Academic Kickstart*
-2. [Download](https://github.com/gcushen/hugo-academic/archive/master.zip) and extract the *Academic theme* to the `themes/academic/` folder from the above step
-
-### Install with RStudio
-
-[View the guide to installing Academic with RStudio](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-## Quick start
-
-1. If you installed on your computer, view your new website by running the following command:
-      
-        hugo server
-
-    Now visit [localhost:1313](http://localhost:1313) and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.
-           
-2. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
-
-3. Build your site by running the `hugo` command. Then [host it for free using Github Pages](https://georgecushen.com/create-your-website-with-hugo/) or Netlify (refer to the first installation method). Alternatively, copy the generated `public/` directory (by FTP, Rsync, etc.) to your production web server (such as a university's hosting service).
-
-## Updating
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of updates and check out the [release notes](https://sourcethemes.com/academic/updates) prior to updating your site.
-
-Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your `themes/academic` directory) and record your current version number.
-
-By default, Academic is installed as a Git submodule which can be updated by running the following command:
-
-```bash
-git submodule update --remote --merge
-```
-
-[Check out the update guide](https://sourcethemes.com/academic/docs/update/) for full instructions and alternative methods.
-
-## Feedback & Contributing
-
-Please use the [issue tracker](https://github.com/gcushen/hugo-academic/issues) to let me know about any bugs or feature requests, or alternatively make a pull request.
-
-For support, head over to the [Hugo discussion forum](http://discuss.gohugo.io).
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Stay tuned !!! 

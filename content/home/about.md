@@ -34,7 +34,7 @@ I am a graduate student at the [University of Illinois at Chicago](https://www.u
 </span>
 
 <span style="font-size: 0.85em;">
-My research interests include application of machine learning and artificial intelligence in health care and make use of various statistical machine learning techniques to advance health care. I am always looking to learn more about the impact AI & ML can have in human lives .
+My research interests include application of machine learning and data analytics in health care and make use of various statistical machine learning and cloud computing techniques to advance health care. I am always curious to learn about the latest technology and the impact it can have in human lives .
 </span>
 
 <span style="font-size: 0.85em;">

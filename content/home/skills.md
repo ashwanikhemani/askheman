@@ -25,12 +25,40 @@ weight = 7
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "80%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Python"
-  description = "80%"  
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Oracle"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
+
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "aws"
+  
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+
+[[feature]]
+  icon = "windows"
+  icon_pack = "fab"
+  name = "Windows"
   
 +++

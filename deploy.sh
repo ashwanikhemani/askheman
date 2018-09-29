@@ -10,7 +10,7 @@ cd ..
 
 cd ashwanikhemani.github.io
 
-cp -av C:/Users/ashwa/ashwani_website/public/* .
+cp -av D:/projects/askheman/public/* .
 
 # Add changes to git.
 git add -A
